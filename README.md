@@ -1,3 +1,10 @@
+This project is no longer maintaned
+===================================
+
+**Alternatives?**
+
+- [Cassandra Medusa](https://github.com/thelastpickle/cassandra-medusa) is a great project maintained by The Last Pickle ltd subsidiry of DataStax. This tool supports both Amazon S3 and GCS.
+
 cassandra_snap
 ======================
 
